@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Piotr/Peter and I'm a frontend developer from Poland.
+### Hi there 👋 my name is Piotr/Peter, I'm a Frontend developer from Poland.
 
 -  👂 I'm currently learning  [remix](https://remix.run/docs/en/v1)
 
