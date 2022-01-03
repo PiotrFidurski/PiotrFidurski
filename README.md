@@ -17,7 +17,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrFidurski&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrFidurski&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PiotrFidurski/PiotrFidurski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
