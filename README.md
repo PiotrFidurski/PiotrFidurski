@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my name is Piotr/Peter and I'm a frontend developer from Poland.
+
+-  👂 I'm currently learning  [remix](https://remix.run/docs/en/v1)
+-  📫 You can reach me via email (crunor55@hotmail.com) or [twitter](https://twitter.com/chimisin)
 
 <!--
 **PiotrFidurski/PiotrFidurski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
