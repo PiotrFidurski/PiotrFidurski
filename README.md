@@ -2,7 +2,7 @@
 
 -  👂 I'm currently learning  [remix](https://remix.run/docs/en/v1)
 
--  📫 You can reach me via email (crunor55@hotmail.com) or [twitter](https://twitter.com/chimisin)
+-  📫 You can reach me via email (crunor55@hotmail.com) or [twitter](https://twitter.com/Chimiz_)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
