@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Piotr/Peter, I'm a Frontend developer from Poland.
 
--  👂 I'm currently learning  [remix](https://remix.run/docs/en/v1)
+-  👂 Web and stuff.
 
--  📫 You can reach me via email (crunor55@hotmail.com) or [twitter](https://twitter.com/Chimiz_)
+-  📫 You can reach me via email (crunor55@hotmail.com)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
